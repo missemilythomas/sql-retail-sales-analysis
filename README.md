@@ -5,4 +5,5 @@ SQL analysis of retail sales data exploring revenue, profitability, customer seg
 
 
 
-[📊 Retail Sales Analysis — SQL Portfolio Project 1.docx](https://github.com/user-attachments/files/24438868/Retail.Sales.Analysis.SQL.Portfolio.Project.1.docx)
+
+[📊 Retail Sales Analysis — SQL Portfolio Project 1.docx](https://github.com/user-attachments/files/24453445/Retail.Sales.Analysis.SQL.Portfolio.Project.1.docx)
